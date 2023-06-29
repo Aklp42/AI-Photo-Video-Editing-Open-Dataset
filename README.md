@@ -38,7 +38,7 @@ We are thrilled to announce the release of "AI Photo-Video Editing Open Dataset 
 
 # Website
 
-To read more about the dataset and access it, please visit [AI Photo-Video Editing Open Dataset Collection](https://maadaa.ai/datasets/open-dataset/fashion-ecommerce/?utm_medium=Referral&utm_source=github&utm_campaign=opendataset1).
+To read more about the dataset and access it, please visit [AI Photo-Video Editing Open Dataset Collection](https://maadaa.ai/datasets/open-dataset/ai-photo/).
 
 
 # Elements
