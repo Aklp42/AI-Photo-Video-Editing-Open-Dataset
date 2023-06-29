@@ -1,14 +1,17 @@
-![lQLPJwospC-gbXbNBVrNBVKwlwxMTLrqQdEEgNMOuMAGAA_1362_1370 png_720x720q90g](https://github.com/Aklp42/maadaa.ai-FaEO-Dataset/assets/97498546/2b4b7d2a-faa7-4f44-a68d-448b4bf5c899)
+![Group 304](https://github.com/Aklp42/AI-Photo-Video-Editing-Open-Dataset-Collection/assets/97498546/8e9ae177-d020-4967-b4da-f039ec1c3dc7)
 
-# maadaa.ai Fashion & e-Commerce Open Dataset
+# maadaa.ai AI Photo-Video Editing Open Dataset Collection
 
-We're excited to unveil our comprehensive "Fashion & e-Commerce Open Dataset" designed to spur innovation in AI technologies across the fashion and e-commerce sectors. 
 
-The dataset is organized into 24 typical scenarios, showcasing the richness of real-world environments, conditions, and objects. It is carefully curated to reflect diverse and realistic situations, allowing models to be tested and refined under a wide range of conditions.
+We are proud to present our expansive "AI Photo-Video Editing Standard Dataset Collection", a carefully curated compendium designed to foster innovation within the growing photo and video editing industry.
 
-This dataset contains 33 meticulously fine-annotated sub-datasets. Each is labeled and annotated with a high degree of precision. These datasets offer a vast range of potential use cases, from object detection and segmentation to pose estimation and beyond.
+AI photo-video editing apps are becoming the hot Apps which can help you create, edit, and enhance photos/videos with ease. High-quality fine-segmented datasets are the key for such advanced Apps, enabling variable functions like matting, background virtualization, inpainting and so on.
 
-This dataset provides a unique context in various applications including personalized recommendations, virtual fittings, beauty AI, and product recognition. This extensive, versatile dataset is a significant resource that we believe will inspire a myriad of innovative solutions in the field.
+Our collection is thoughtfully organized into 15 typical scenarios that demonstrate the complexity and variety of real-world editing requirements. It captures a broad range of environments, conditions, and objects, providing machine learning models a diverse and authentic playground for testing and refining their capabilities.
+
+Further, our collection includes 23 meticulously annotated sub-datasets, each labelled with precision. These sub-datasets offer a vast spectrum of potential applications, pushing the boundaries of what's possible in photo and video editing.
+
+From personalized filters to virtual background creations, realistic object insertions to sophisticated enhancements, the applications of this dataset are wide-ranging and exciting. We believe that this versatile dataset collection will not only contribute to the existing capabilities of photo and video editing apps but also inspire groundbreaking solutions and features in the field.
 
 # License
 
@@ -28,14 +31,14 @@ For more details, please visit [Creative Commons Attribution-NonCommercial-Share
 
 # Updates
 
-## June 2023 Update:
+## July 2023 Update:
 
-We are thrilled to announce the release of "Fashion & E-Commerce Open Dataset v1.0" as a part of our "Fashion & e-Commerce Standard Datasets Lite". This newly introduced dataset comprises over 30,000 images with a multitude of scenarios and corresponding annotations. Stay tuned for more updates!
+We are thrilled to announce the release of "AI Photo-Video Editing Open Dataset Collection" as a part of our "AI Photo-Video Editing Standard Dataset Collection". This newly introduced dataset comprises over 25,000 images with a multitude of scenarios and corresponding annotations. Stay tuned for more updates!
 
 
 # Website
 
-To read more about the dataset and access it, please visit [Fashion & E-commerce Open Dataset](https://maadaa.ai/datasets/open-dataset/fashion-ecommerce/?utm_medium=Referral&utm_source=github&utm_campaign=opendataset1).
+To read more about the dataset and access it, please visit [AI Photo-Video Editing Open Dataset Collection](https://maadaa.ai/datasets/open-dataset/fashion-ecommerce/?utm_medium=Referral&utm_source=github&utm_campaign=opendataset1).
 
 
 # Elements
@@ -44,19 +47,19 @@ The dataset contains a variety of scenarios and annotations as described in the 
 
 ## Scenarios
 
-|  |  |  |  |
-| --- | --- | --- | --- |
-| Clothing Classification | Clothing Keypoints | Clothing Segmentation | Clothing Pattern Classification |
-| Person And Clothing Segmentation | Scarf Segmentation | Fabrics Classification | Human Body Segmentation |
-| Human Body Contour Segmentation | Human Body Keypoints | Single-person Matting | Portrait Matting |
-| Portrait Segmentation | Face Parsing Segmentation | Facial Keypoints | Hair Segmentation |
-| Lips Segmentation | Eyelid Segmentation | E-commerce Product Classification | Objects Segmentation |
-| Object Matting | Bill OCR | Language OCR | Handwriting OCR |
+|      |      |      |      |
+|------|------|------|------|
+| Human Body Segmentation | Human Body Contour Segmentation | Human Body Keypoints | Single-person Matting |
+| Portrait Matting | Portrait Segmentation | Face Parsing Segmentation | Facial Keypoints |
+| Hair Segmentation | Lips Segmentation | Eyelid Segmentation | Food Contour Segmentation |
+| Object Segmentation | Hair Segmentation | Accessories Segmentation |      |
+
 
 ## Annotations
 
-|  |  |  |  |
-| --- | --- | --- | --- |
+|      |      |      |      |
+|------|------|------|------|
 | Keypoints | Counter Segmentation | Classification | Semantic Segmentation |
-| Matting | Bounding Box | OCR | |
+| Matting | Bounding Box |      |      |
+
 
