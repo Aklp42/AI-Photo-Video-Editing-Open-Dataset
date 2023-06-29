@@ -1,10 +1,10 @@
 
 ![Group 304](https://github.com/Aklp42/AI-Photo-Video-Editing-Open-Dataset-Collection/assets/97498546/4ca91a33-80d9-4a6b-8137-213c5453eb45)
 
-# maadaa.ai AI Photo-Video Editing Open Dataset Collection
+# maadaa.ai AI Photo-Video Editing Open Dataset
 
 
-We are proud to present our expansive "AI Photo-Video Editing Standard Dataset Collection", a carefully curated compendium designed to foster innovation within the growing photo and video editing industry.
+We are proud to present our expansive "AI Photo-Video Editing Standard Dataset", a carefully curated compendium designed to foster innovation within the growing photo and video editing industry.
 
 AI photo-video editing apps are becoming the hot Apps which can help you create, edit, and enhance photos/videos with ease. High-quality fine-segmented datasets are the key for such advanced Apps, enabling variable functions like matting, background virtualization, inpainting and so on.
 
@@ -34,12 +34,12 @@ For more details, please visit [Creative Commons Attribution-NonCommercial-Share
 
 ## July 2023 Update:
 
-We are thrilled to announce the release of "AI Photo-Video Editing Open Dataset Collection" as a part of our "AI Photo-Video Editing Standard Dataset Collection". This newly introduced dataset comprises over 25,000 images with a multitude of scenarios and corresponding annotations. Stay tuned for more updates!
+We are thrilled to announce the release of "AI Photo-Video Editing Open Dataset" as a part of our "AI Photo-Video Editing Standard Dataset Collection". This newly introduced dataset comprises over 25,000 images with a multitude of scenarios and corresponding annotations. Stay tuned for more updates!
 
 
 # Website
 
-To read more about the dataset and access it, please visit [AI Photo-Video Editing Open Dataset Collection](https://maadaa.ai/datasets/open-dataset/ai-photo/).
+To read more about the dataset and access it, please visit [AI Photo-Video Editing Open Dataset](https://maadaa.ai/datasets/open-dataset/ai-photo/).
 
 
 # Elements
